@@ -74,10 +74,6 @@ a {
   margin: 0 auto;
 }
 
-.ord {
-  padding: 188px, 0;
-}
-
 .address-link {
   color: #434455;
   font-weight: 400;
@@ -91,6 +87,7 @@ a {
 .ordering-section {
   background-color: #2e2f42;
   display: flex;
+  padding: 188px, 0;
 }
 
 .main-ordering-title, 
@@ -106,13 +103,13 @@ a {
 }
 
 .main-ordering-title {
-  padding-top: 188px;
-  padding-bottom: 48px;
   font-size: 56px;
   line-height: 1.07;
   color: #fff;
   max-width: 496px;
-  justify-items: center;
+  padding-top: 188px;
+  padding-bottom: 48px;
+  margin: 0, auto;
 }
 
 .second-main-title {
