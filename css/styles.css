@@ -70,6 +70,10 @@ a {
   margin: 0 auto;
 }
 
+.ord {
+  padding: 188px, 0;
+}
+
 .address-link {
   color: #434455;
   font-weight: 400;
@@ -104,6 +108,7 @@ a {
   font-size: 56px;
   line-height: 1.07;
   color: #fff;
+  max-width: 496px;
 }
 
 .second-main-title {
@@ -127,6 +132,11 @@ a {
   color: #fff;
   background-color: #4d5ae5;
   cursor: pointer;
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  border-radius: 4px;
 }
 
 .order-button:hover,
