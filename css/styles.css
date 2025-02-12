@@ -68,7 +68,6 @@ a {
 /* End header section */
 
 .container {
-  display: flex;
   width: 1158px;
   padding-left: 15px;
   padding-right: 15px;
@@ -85,6 +84,9 @@ a {
   color: #404bbf;
 }
 
+.ord {
+  display: flex;
+}
 .ordering-section {
   background-color: #2e2f42;
   padding: 188px, 0;
