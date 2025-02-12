@@ -99,11 +99,12 @@ a {
 .main-ordering-title {
   padding-top: 188px;
   padding-bottom: 48px;
+  padding-left: auto;
+  padding-right: auto;
   font-size: 56px;
   line-height: 1.07;
   color: #fff;
-  max-width: 496px;
-  align-items: center;
+  
 }
 
 .second-main-title {
