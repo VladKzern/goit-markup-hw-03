@@ -208,10 +208,6 @@ a {
 
 /* Start Features Section */
 
-.features-section {
-  padding: 120px 0;
-}
-
 .features-list {
   display: flex;
   align-items: center;
@@ -230,11 +226,6 @@ a {
 .features-info-title{
   margin-bottom: 8px;
 }
-
-.paragraph {
-}
-
-
 
 /* End Features Section */
 
