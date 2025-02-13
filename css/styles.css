@@ -77,10 +77,12 @@ a {
 
 .header-nav-list {
   display: flex;
+  align-items: center;
 }
 
 .header-address-list {
   display: flex;
+  align-items: center;
 }
 
 /* End header section */
