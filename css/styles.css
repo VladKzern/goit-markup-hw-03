@@ -65,6 +65,18 @@ a {
   font-style: normal;
 }
 
+.header-container {
+  display: flex;
+}
+
+.header-nav-list {
+  display: flex;
+}
+
+.header-address-list {
+  display: flex;
+}
+
 /* End header section */
 
 .container {
