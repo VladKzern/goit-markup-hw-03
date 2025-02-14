@@ -291,6 +291,7 @@ a {
 
 .footer-section {
   background-color: #2e2f42;
+  padding: 100px 0;
 }
 
 .studio-footer {
@@ -299,6 +300,12 @@ a {
 
 .footer-p {
   color: #f4f4fd;
+  max-width: 264px
+}
+
+.footer-container > .logo {
+  display: inline-block;
+  margin-bottom: 16px;
 }
 
 /* End Footer Section*/
