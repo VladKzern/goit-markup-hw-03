@@ -215,11 +215,9 @@ a {
 }
 
 .features-list-item {
-  display: flex;
   align-items: flex-start;
   justify-content: flex-start;
   flex-direction: column;
-  gap: 8px;
   width: calc((100% - 72px) / 4);
 }
 
@@ -235,8 +233,33 @@ a {
   background-color: #F4F4FD;
 }
 
+.second-main-title, .team-title {
+  margin-bottom: 72px;
+}
+
+.team-section-list {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
 .list-info {
+  border-radius: 0 0 4px 4px;
+  width: calc((100% - 72px) / 4);
   background-color: #FFFFFF;
+}
+
+.team-info {
+  padding: 32px 0;
+}
+
+.team-info > .info-title {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.team-info > .paragraph {
+  text-align: center;
 }
 
 /* End Team Section */
